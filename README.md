@@ -1,29 +1,3 @@
-![apic](http://webtools.qiniudn.com/master-LOGO-20150410_50.jpg)  
-
-# [PhalApi 2.1.2 - 助你创造价值！](https://www.phalapi.net/) 
-
-[![Latest Stable Version](https://poser.pugx.org/phalapi/phalapi/v/stable)](https://packagist.org/packages/phalapi/phalapi)
-[![Total Downloads](https://poser.pugx.org/phalapi/phalapi/downloads)](https://packagist.org/packages/phalapi/phalapi)
-[![Latest Unstable Version](https://poser.pugx.org/phalapi/phalapi/v/unstable)](https://packagist.org/packages/phalapi/phalapi)
-[![License](https://poser.pugx.org/phalapi/phalapi/license)](https://packagist.org/packages/phalapi/phalapi)
-
-## 快速安装
-
-### composer一键安装
-
-使用composer创建项目的命令，可实现一键安装。
-
-```bash
-$ composer create-project phalapi/phalapi
-```
-> 温馨提示：关于composer的使用，请参考[Composer 中文网 / Packagist 中国全量镜像](http://www.phpcomposer.com/)。
-
-### 手动下载安装
-
-或者，也可以进行手动安装。将此Git项目代码下载解压后，进行可选的composer更新，即：  
-```bash
-$ composer update
-```
 
 ### 访问接口服务
 
@@ -43,11 +17,6 @@ http://localhost/path/to/phalapi/public/
     "msg": ""
 }
 ```
-
-运行效果，截图如下：  
-
-![](http://7xiz2f.com1.z0.glb.clouddn.com/20170726223129_eecf3d78826c5841020364c852c35156)
-
 
 > 温馨提示：推荐将访问根路径指向/path/to/phalapi/public。
 
