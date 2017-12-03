@@ -1,0 +1,143 @@
+2017-11-19 23:23:24|ERROR|App.Examples_CURD.Insert|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(338): NotORM_Result->query('INSERT INTO tbl...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(355): NotORM_Result->insert_multi(Array)
+#2 D:\WWW\www.api.com\vendor\phalapi\kernal\src\Model\NotORMModel.php(42): NotORM_Result->insert(Array)
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(12): PhalApi\Model\NotORMModel->insert(Array)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(56): App\Domain\Examples\CURD->insert(Array)
+#5 [internal function]: App\Api\Examples\CURD->insert()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:28|ERROR|App.Examples_CURD.Insert|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(338): NotORM_Result->query('INSERT INTO tbl...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(355): NotORM_Result->insert_multi(Array)
+#2 D:\WWW\www.api.com\vendor\phalapi\kernal\src\Model\NotORMModel.php(42): NotORM_Result->insert(Array)
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(12): PhalApi\Model\NotORMModel->insert(Array)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(56): App\Domain\Examples\CURD->insert(Array)
+#5 [internal function]: App\Api\Examples\CURD->insert()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:30|ERROR|App.Examples_CURD.Insert|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(338): NotORM_Result->query('INSERT INTO tbl...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(355): NotORM_Result->insert_multi(Array)
+#2 D:\WWW\www.api.com\vendor\phalapi\kernal\src\Model\NotORMModel.php(42): NotORM_Result->insert(Array)
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(12): PhalApi\Model\NotORMModel->insert(Array)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(56): App\Domain\Examples\CURD->insert(Array)
+#5 [internal function]: App\Api\Examples\CURD->insert()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:30|ERROR|App.Examples_CURD.Insert|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(338): NotORM_Result->query('INSERT INTO tbl...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(355): NotORM_Result->insert_multi(Array)
+#2 D:\WWW\www.api.com\vendor\phalapi\kernal\src\Model\NotORMModel.php(42): NotORM_Result->insert(Array)
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(12): PhalApi\Model\NotORMModel->insert(Array)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(56): App\Domain\Examples\CURD->insert(Array)
+#5 [internal function]: App\Api\Examples\CURD->insert()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:30|ERROR|App.Examples_CURD.Insert|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(338): NotORM_Result->query('INSERT INTO tbl...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(355): NotORM_Result->insert_multi(Array)
+#2 D:\WWW\www.api.com\vendor\phalapi\kernal\src\Model\NotORMModel.php(42): NotORM_Result->insert(Array)
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(12): PhalApi\Model\NotORMModel->insert(Array)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(56): App\Domain\Examples\CURD->insert(Array)
+#5 [internal function]: App\Api\Examples\CURD->insert()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:30|ERROR|App.Examples_CURD.Insert|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(338): NotORM_Result->query('INSERT INTO tbl...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(355): NotORM_Result->insert_multi(Array)
+#2 D:\WWW\www.api.com\vendor\phalapi\kernal\src\Model\NotORMModel.php(42): NotORM_Result->insert(Array)
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(12): PhalApi\Model\NotORMModel->insert(Array)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(56): App\Domain\Examples\CURD->insert(Array)
+#5 [internal function]: App\Api\Examples\CURD->insert()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:45|ERROR|App.Examples_CURD.GetList|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(810): NotORM_Result->query('SELECT * FROM t...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(895): NotORM_Result->execute()
+#2 D:\WWW\www.api.com\src\app\Model\Examples\CURD.php(31): NotORM_Result->fetchAll()
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(34): App\Model\Examples\CURD->getListItems(0, 1, 10)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(126): App\Domain\Examples\CURD->getList(0, 1, 10)
+#5 [internal function]: App\Api\Examples\CURD->getList()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:49|ERROR|App.Examples_CURD.GetList|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(810): NotORM_Result->query('SELECT * FROM t...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(895): NotORM_Result->execute()
+#2 D:\WWW\www.api.com\src\app\Model\Examples\CURD.php(31): NotORM_Result->fetchAll()
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(34): App\Model\Examples\CURD->getListItems(0, 1, 10)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(126): App\Domain\Examples\CURD->getList(0, 1, 10)
+#5 [internal function]: App\Api\Examples\CURD->getList()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:50|ERROR|App.Examples_CURD.GetList|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(810): NotORM_Result->query('SELECT * FROM t...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(895): NotORM_Result->execute()
+#2 D:\WWW\www.api.com\src\app\Model\Examples\CURD.php(31): NotORM_Result->fetchAll()
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(34): App\Model\Examples\CURD->getListItems(0, 1, 10)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(126): App\Domain\Examples\CURD->getList(0, 1, 10)
+#5 [internal function]: App\Api\Examples\CURD->getList()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:50|ERROR|App.Examples_CURD.GetList|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(810): NotORM_Result->query('SELECT * FROM t...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(895): NotORM_Result->execute()
+#2 D:\WWW\www.api.com\src\app\Model\Examples\CURD.php(31): NotORM_Result->fetchAll()
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(34): App\Model\Examples\CURD->getListItems(0, 1, 10)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(126): App\Domain\Examples\CURD->getList(0, 1, 10)
+#5 [internal function]: App\Api\Examples\CURD->getList()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:50|ERROR|App.Examples_CURD.GetList|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(810): NotORM_Result->query('SELECT * FROM t...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(895): NotORM_Result->execute()
+#2 D:\WWW\www.api.com\src\app\Model\Examples\CURD.php(31): NotORM_Result->fetchAll()
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(34): App\Model\Examples\CURD->getListItems(0, 1, 10)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(126): App\Domain\Examples\CURD->getList(0, 1, 10)
+#5 [internal function]: App\Api\Examples\CURD->getList()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:50|ERROR|App.Examples_CURD.GetList|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(810): NotORM_Result->query('SELECT * FROM t...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(895): NotORM_Result->execute()
+#2 D:\WWW\www.api.com\src\app\Model\Examples\CURD.php(31): NotORM_Result->fetchAll()
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(34): App\Model\Examples\CURD->getListItems(0, 1, 10)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(126): App\Domain\Examples\CURD->getList(0, 1, 10)
+#5 [internal function]: App\Api\Examples\CURD->getList()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
+2017-11-19 23:26:51|ERROR|App.Examples_CURD.GetList|exception 'PDOException' with message 'Table 'phalapi.tbl_curd' doesn't exist' in D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php:261
+Stack trace:
+#0 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(810): NotORM_Result->query('SELECT * FROM t...', Array)
+#1 D:\WWW\www.api.com\vendor\phalapi\notorm\src\NotORM\Result.php(895): NotORM_Result->execute()
+#2 D:\WWW\www.api.com\src\app\Model\Examples\CURD.php(31): NotORM_Result->fetchAll()
+#3 D:\WWW\www.api.com\src\app\Domain\Examples\CURD.php(34): App\Model\Examples\CURD->getListItems(0, 1, 10)
+#4 D:\WWW\www.api.com\src\app\Api\Examples\CURD.php(126): App\Domain\Examples\CURD->getList(0, 1, 10)
+#5 [internal function]: App\Api\Examples\CURD->getList()
+#6 D:\WWW\www.api.com\vendor\phalapi\kernal\src\PhalApi.php(49): call_user_func(Array)
+#7 D:\WWW\www.api.com\public\index.php(9): PhalApi\PhalApi->response()
+#8 {main}
