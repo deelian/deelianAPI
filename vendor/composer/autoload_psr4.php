@@ -9,5 +9,6 @@ return array(
     'PhalApi\\Task\\' => array($vendorDir . '/phalapi/task/src'),
     'PhalApi\\NotORM\\' => array($vendorDir . '/phalapi/notorm/src'),
     'PhalApi\\' => array($vendorDir . '/phalapi/kernal/src'),
+    'Deelian\\' => array($baseDir . '/src/deelian'),
     'App\\' => array($baseDir . '/src/app'),
 );
