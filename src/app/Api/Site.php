@@ -29,7 +29,7 @@ class Site extends Api {
 	 */
 	public function index() {
         return array(
-            'title' => 'Hello! ' . $this->username,
+            'title' => 'look! ' . $this->username,
             'version' => PHALAPI_VERSION,
             'time' => $_SERVER['REQUEST_TIME'],
         );
